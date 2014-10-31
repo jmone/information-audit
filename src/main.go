@@ -11,7 +11,7 @@ func loadDict(path string){
 }
 
 func init(){
-	fmt.Println("欢迎使用小米敏感词过滤系统！")
+	fmt.Println("欢迎使用Discuz敏感词过滤系统！")
 }
 
 func main(){
